@@ -1,7 +1,7 @@
-var f = require('./lib/file.js');
-var $ = require('./lib/base.js');
+var file = require('./lib/file.js');
+var base = require('./lib/base.js');
 
 module.exports = {
-	f: f,
-	$: $
+	file: file
+	base: base
 };
