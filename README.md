@@ -91,9 +91,9 @@ file.excludeFiles(path);
 file.copy(path, target, [include, exclude, uncover, move]);
 ```
 
-`@include`：想要复制的文件后缀
-`@exclude`：不想复制的文件后缀
-`@uncover`：是否不覆盖目标文件，默认为false
+`@include`：想要复制的文件后缀，
+`@exclude`：不想复制的文件后缀，
+`@uncover`：是否不覆盖目标文件，默认为false，
 `@move`：想要移动文件，默认为false
 
 
@@ -288,7 +288,7 @@ base.getDay();
 base.getTime([separator, hasMs]);
 ```
 
-`@separator`：分隔符，默认为冒号
+`@separator`：分隔符，默认为冒号，
 `@hasMs`：是否返回毫秒数
 
 获取时间戳
