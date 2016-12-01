@@ -1,25 +1,25 @@
 {
-  "name": "jdf-file",
-  "version": "1.0.7",
-  "description": "jdf-file",
+  "name": "jdf-utils",
+  "version": "1.0.8",
+  "description": "JDF文件操作和基础函数类库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jdf2e/jdf-file.git"
+    "url": "https://github.com/jdf2e/jdf-utils.git"
   },
   "keywords": [
     "jdf",
-    "file"
+    "utils"
   ],
   "author": "chenxiaochun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jdf2e/jdf-file/issues"
+    "url": "https://github.com/jdf2e/jdf-utils/issues"
   },
-  "homepage": "https://github.com/jdf2e/jdf-file",
+  "homepage": "https://github.com/jdf2e/jdf-utils",
   "dependencies": {
     "crypto": "0.0.3",
     "util": "^0.10.3"
