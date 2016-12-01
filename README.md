@@ -1,17 +1,17 @@
-# jdf-file
+# jdf-utils
 
 JDF文件操作和基础函数类库
 
 ## Install
 ```
-$ npm install --save jdf-file
+$ npm install --save jdf-utils
 ```
 
 ## Usage
 ```
-var jdfFile = require('jdf-file');
-var file = jdfFile.file;
-var base = jdfFile.base;
+var jdfUtils = require('jdf-utils');
+var file = jdfUtils.file;
+var base = jdfUtils.base;
 ```
 
 ## file api
