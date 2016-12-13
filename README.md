@@ -238,11 +238,6 @@ base.is.jpg(path);
 base.is.png(path);
 ```
 
-判断是否为图片文件：jpg，jpeg，png，gif
-```
-base.is.img(path);
-```
-
 判断是否为http链接
 ```
 base.is.httpLink(str);
