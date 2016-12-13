@@ -1,6 +1,6 @@
 {
   "name": "jdf-utils",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "JDF文件操作和基础函数类库",
   "main": "index.js",
   "scripts": {
