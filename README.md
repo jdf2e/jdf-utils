@@ -1,3 +1,8 @@
+[![NPM](https://nodei.co/npm/jdf-utils.png?downloads=true)](https://nodei.co/npm/jdf-utils/)
+
+[![NPM version](https://badge.fury.io/js/jdf-utils.png)](http://badge.fury.io/js/jdf-utils)  [![Build Status](https://travis-ci.org/jdf2e/jdf-utils.svg?branch=master)](https://travis-ci.org/jdf2e/jdf-utils)
+
+
 # jdf-utils
 
 JDF文件操作和基础函数类库
