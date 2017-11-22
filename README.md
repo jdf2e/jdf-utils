@@ -68,7 +68,7 @@ file.read(path [,encodeing]);
 
 写文件，默认文件编码为utf-8
 ```
-file.write(path, target [,encoding]);
+file.write(path, source [,encoding]);
 ```
 
 复制二进制文件
