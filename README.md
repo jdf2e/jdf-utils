@@ -341,6 +341,14 @@ base.inArray(array, str);
 base.md5(str);
 ```
 
+获取当前电脑用户信息
+* `username`，当前用户电脑帐户名称
+* `node_path`，当前电脑上的 nodejs 全局安装包位置
+* `pwd`，当前用户执行的项目路径
+```
+$.getUserInfo();
+```
+
 
 
 
