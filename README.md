@@ -346,7 +346,7 @@ base.md5(str);
 * `node_path`，当前电脑上的 nodejs 全局安装包位置
 * `pwd`，当前用户执行的项目路径
 ```
-$.getUserInfo();
+base.getUserInfo();
 ```
 
 
